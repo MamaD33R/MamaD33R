@@ -10,7 +10,7 @@ So far I've learned the fundamentals of:</h4> C#, Python, JavaScript, HTML/CSS, 
 
 <h3>📫 I can be contacted at...</h3>
 <h4>♥ LinkedIn: https://www.linkedin.com/in/kaia-forrester/</h4>
-<h4>♥ Gmail: kaialforrester@gmail.com</h4>
+<h4>♥ Gmail: <a href="mailto:kaialforrester@gmail.com">kaialforrester@gmail.com</a>  </h4>
 <h4>♥ Personal Site: https://mamad33r.github.io/</h4>
 
 <!---
